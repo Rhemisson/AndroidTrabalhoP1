@@ -1,4 +1,4 @@
-package Android.hemis.ucam.trabalhop1;
+package android.hemis.ucam.trabalhop1;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
